@@ -1,0 +1,27 @@
+{
+  "name": "allex_httprequestparameterextractionlib",
+  "version": "1.0.0",
+  "description": "AllexJS lib for extracting the parameters of an HTTP request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-libs/httprequestparameterextraction.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "http",
+    "request",
+    "parameter",
+    "extraction",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-libs/httprequestparameterextraction/issues"
+  },
+  "homepage": "https://github.com/allex-libs/httprequestparameterextraction#readme"
+}
